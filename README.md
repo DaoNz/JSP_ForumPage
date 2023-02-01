@@ -1,1 +1,1 @@
-# Practice-JSP
+# JSP - Board
